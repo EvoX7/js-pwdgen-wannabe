@@ -26,6 +26,7 @@ const currentYear = "22";
 
 const pwGen = userName + userSurname + favColor + currentYear;
 document.getElementById("gen-pwd").innerHTML = pwGen;
+console.log(pwGen);
 
 
 
