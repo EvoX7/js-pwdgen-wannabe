@@ -19,7 +19,7 @@ console.log(userName, userSurname, favColor);
 
 // Current Date to Add
 
-const currentYear = 22;
+const currentYear = "22";
 
 
 // Password generator result 
